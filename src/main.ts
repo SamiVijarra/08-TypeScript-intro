@@ -3,7 +3,9 @@
 // import { charmander } from './bases/03-classes';
 // import { charmander } from './bases/04-injection';
 // import { charmander } from './bases/05-decorators';
-import { charmander } from './bases/05-decorators';
+//import { charmander } from './bases/05-decorators';
+
+import { charmander } from './bases/06-decprators2';
 import './style.css';
 
 
