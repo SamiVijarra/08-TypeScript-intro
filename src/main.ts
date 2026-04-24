@@ -3,7 +3,7 @@ import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import { setupCounter } from './counter.ts'
-import { charmander } from './bases/03-classes.ts'
+import { charmander } from './bases/04-injection.ts';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
